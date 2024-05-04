@@ -1,0 +1,45 @@
+body {
+    color:black;
+    background-color:white;
+    background-image:url(ferrari.png);
+    opacity: 0.9;
+    background-size: 100%;
+}
+
+div{
+    width: 25%;
+    background-color:grey;
+    opacity: 1;
+    margin-top:15%;
+    margin-left:35%
+}
+h1{
+    text-align: center;
+    font: all-petite-caps;
+}
+#envoi {
+    background-color:silver;
+    border:1px solid #9FC6FF;
+    padding:5px;
+    border-radius:10px 10px 10px 10px;
+    width: 100%
+}
+#pseudo{
+    border-radius:10px 10px 10px 10px;
+    background-color: silver;
+    width:65%;
+    margin-left: 12%;
+}
+#mdp{
+    border-radius:10px 10px 10px 10px;
+    background-color: silver;
+    width:65%
+}
+label{
+    font-family: fantasy;
+    font: bolder;
+}
+input#envoi{
+    font-family:fantasy;
+    font-size:20px;
+}

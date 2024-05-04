@@ -1,0 +1,65 @@
+h1{
+  text-align: center;
+  color:red;
+  
+}
+form div.bouton{
+  display: inline-block;
+  background-color: black;
+}
+
+div#voitures{
+  width:49%;
+  display: inline-block;
+  background-color:lightgray;
+  border:1px solid #9FC6FF;
+  padding:2px;
+  border-radius:10px 10px 10px 10px;
+}
+div#voitures form{
+  width:100%;
+
+}
+div#motos{
+  width:49%;
+  display: inline-block;
+  background-color:lightgray;
+  border:1px solid #9FC6FF;
+  padding:2px;
+  border-radius:10px 10px 10px 10px;
+}
+div#tousVehicules{
+  width:99%;
+  display: inline-block;
+  background-color:lightgray;
+  border:1px solid #9FC6FF;
+  padding:2px;
+  border-radius:10px 10px 10px 10px;
+
+}
+div#motos form{
+  width:100%
+}
+input{
+  width:100%;
+  padding-top:3px;
+  padding-bottom:3px;
+  padding-right: 3px;
+  padding-left: 3px;
+  height:40px;
+}
+div.boutonUnique input{
+  width:100%;
+  padding: 3px 3px 3px 3px;
+}
+img{
+  width:10%;
+}
+body {
+  background-image: url("ferrari.png");
+  background-size: 100%;
+  opacity: 0.9;
+}
+div#aMasquerInsertVoiture{
+  display:none;
+}
